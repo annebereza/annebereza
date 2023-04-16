@@ -111,20 +111,31 @@
 <br/>  
 
 
-## Blogs
+## Followed Blogs
 - wyszkolewas.com.pl
 - testerzy.pl
 - testuj.pl
 - testITka
 - remigiuszbednarczyk.pl
+- GeekON
+- pwicherski.gitbook.io
+
+
+
+<br/> 
+
+
+## Groups on Facebook
+- Tester oprogramowania - wsparcie na starcie
+- Testowanie oprogramowania - Materiały | Porady
+- Testowanie oprogramowania
+- Girls Who Tests
+- Gildia Testerów
 
 
 
 <br/>  
 
-  
-
-<br/>  
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=annebereza&&style=flat-square" align="center" />
