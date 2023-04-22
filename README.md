@@ -1,8 +1,6 @@
 
 <div align="center">
-<img src="https://media.licdn.com/dms/image/C4E16AQEvCGFeXmJU9A/profile-displaybackgroundimage-shrink_350_1400/0/1608282439813?e=1686787200&v=beta&t=w-g1X_sMfwxa-vFmqJTvPdCQUjvxTz4C_XHccjr1zHE" align="center" style="width: 100%"  />
-  <br/>  
-  <img src="https://capsule-render.vercel.app/api?type=waving&&color=0:ffffff,100:000000&text=Hello!&animation=fadeIn&fontColor=000000&height=160&section=header" align="center" style="width: 100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&&color=0:ffffff,100:000000&text=Hello!&animation=fadeIn&fontColor=ffffff&height=160&section=header" align="center" style="width: 100%"/>
 </div>  
 <br/>  
 
@@ -153,10 +151,16 @@ Almost ten years experienced IT worker with a strong technical background, open-
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=annebereza&&style=flat-square" align="center" />
-</div>  
-  
+</div> 
 
-<br/>  
+
+  <br/> 
+  
+  
+<div align="center">
+<img src="https://media.licdn.com/dms/image/C4E16AQEvCGFeXmJU9A/profile-displaybackgroundimage-shrink_350_1400/0/1608282439813?e=1686787200&v=beta&t=w-g1X_sMfwxa-vFmqJTvPdCQUjvxTz4C_XHccjr1zHE" align="center" style="width: 100%"  />
+</div>  
+ 
   
 
 
