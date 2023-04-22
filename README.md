@@ -1,24 +1,25 @@
 
 <div align="center">
-<img src="https://media.licdn.com/dms/image/C4E16AQEvCGFeXmJU9A/profile-displaybackgroundimage-shrink_350_1400/0/1608282439813?e=1686787200&v=beta&t=w-g1X_sMfwxa-vFmqJTvPdCQUjvxTz4C_XHccjr1zHE" align="center" style="width: 100%" />
+<img src="https://media.licdn.com/dms/image/C4E16AQEvCGFeXmJU9A/profile-displaybackgroundimage-shrink_350_1400/0/1608282439813?e=1686787200&v=beta&t=w-g1X_sMfwxa-vFmqJTvPdCQUjvxTz4C_XHccjr1zHE" align="center" style="width: 100%"  />
+  <br/>  
+  <img src="https://capsule-render.vercel.app/api?type=waving&&color=0:ffffff,100:000000&text=Hello!&animation=fadeIn&fontColor=000000&height=160&section=header" align="center" style="width: 100%"/>
 </div>  
+<br/>  
+
+### 👋  I'm Anne Bereza, a Software Tester 👨‍💻  and Digital Marketing Freak 🚀  
   
 <br/>  
 
-### Hi!  👋  I'm Anne Bereza, a Software Tester 👨‍💻  and Digital Marketing Freak 🚀  
-  
-<br/>  
 
-
-## About  
-📌 Almost ten years experienced IT worker with a strong technical background, open-minded, and eager to take up new challenges. An inquisitive person who loves to learn new things every day. I had an opportunity to run projects of different sizes and teams, including ones in IT international environments. I'm a Software Tester with strong attention to detail.  
+## 📌 About  
+Almost ten years experienced IT worker with a strong technical background, open-minded, and eager to take up new challenges. An inquisitive person who loves to learn new things every day. I had an opportunity to run projects of different sizes and teams, including ones in IT international environments. I'm a Software Tester with strong attention to detail.  
   
 
-- 🌱 I’m currently learning about automated testing 🔄  
-  
+- 🌱 I’m currently learning about automated testing 🔄   
+
 
 - ❓ Ask me about anything you want! 🙈  
-  
+
 
 - ⚡ Fun fact: I'm Mother of Dogs 🐶 (Dog's Trainer and Canine Behaviorist)  
   
@@ -26,7 +27,7 @@
 <br/>  
 
 
-## My Skill Set  
+## 💪 My Skill Set 🛠️
 <table><tr><td valign="top" width="50%">
 
 - JIRA / Confluence / ClickUp
@@ -69,14 +70,12 @@
 </div>
 
 
-
-
 </td></tr></table>  
 
 <br/>  
 
 
-## Connect with me  
+## 💬 Connect with me  
 <div align="center">
 <a href="https://github.com/annebereza" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -99,39 +98,54 @@
 <br/>  
 
 
-## Books  
+## 📚 Books  
 - R.Smilgin - "Zawód Tester" 
 - Adam Roman - "Testowanie i jakość oprogramowania. Modele, techniki, narzędzia"
 - Karolina Zmitrowicz - "Tester oprogramowania Przygotowanie do egzaminu z testowania oprogramowania"
 - Glenford J. Myers, Corey Sandler, Tom Badgett, Todd M. - "Sztuka testowania oprogramowania"
+- R. Pawlak - "Testowanie oprogramowania. Podręcznik dla początkujących"
 - James A. Whittaker, Jason Arbon, Je Carollo - "Testuj oprogramowanie jak Google"
+- W.Gajda - "GIT: Rozproszony system kontroli wersji"
+- K.Simpson - "You Don't Know JS" series
+- J.Duckett - "HTML and CSS: Design and Build Websites"
+- J.Ducett - "JavaScript and JQuery: Interactive Front-End Web Development"
+- T.Sochacki - "JavaScript - Wyrażenia regularne dla programistów"
+- L.Verou - "CSS Secrets"
   
   
+<br/>  
+
+
+## 🐾 Hobbies
+- new technologies
+- dog training
+- animal behavioristics
+- programming
+
 
 <br/>  
 
 
-## Followed Blogs
+## 🌐 Followed Blogs
 - wyszkolewas.com.pl
 - testerzy.pl
 - testuj.pl
+- testelka.pl
 - testITka
 - remigiuszbednarczyk.pl
 - GeekON
 - pwicherski.gitbook.io
 
 
-
 <br/> 
 
 
-## Groups on Facebook
+## 👥 Groups on Facebook
 - Tester oprogramowania - wsparcie na starcie
 - Testowanie oprogramowania - Materiały | Porady
 - Testowanie oprogramowania
 - Girls Who Tests
 - Gildia Testerów
-
 
 
 <br/>  
@@ -144,7 +158,5 @@
 
 <br/>  
   
-
-<br/>  
 
 
