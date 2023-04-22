@@ -29,7 +29,7 @@ Almost ten years experienced IT worker with a strong technical background, open-
 
 </td><td valign="top" width="50%">  
 
-<img align="right" alt="annebereza" style="margin-top:15px" src="https://github.com/hackerspider1/hackerspider1/blob/main/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="annebereza" style="margin-top:15px" src="https://github.com/hackerspider1/hackerspider1/blob/main/code.gif?raw=true" width="100%" height="auto" />
 
 </td></tr></table>  
 
