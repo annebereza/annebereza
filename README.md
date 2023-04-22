@@ -1,11 +1,14 @@
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&&color=0:ffffff,100:000000&text=Hello!&animation=fadeIn&fontColor=ffffff&height=160&section=header" align="center" style="width: 100%"/>
-</div>  
+</div> 
+
+
 <br/>  
 
-### 👋  I'm Anne Bereza, a Software Tester 👨‍💻  and Digital Marketing Freak 🚀  
-  
+
+  <h3>👋  I'm Anne Bereza, a Software Tester 👨‍💻  and Digital Marketing Freak 🚀  </h3>
+
 <br/>  
 
 
@@ -28,19 +31,19 @@ Almost ten years experienced IT worker with a strong technical background, open-
 ## 💪 My Skill Set 🛠️
 <table><tr><td valign="top" width="50%">
 
-- JIRA / Confluence / ClickUp
-- TestRail / qTest 
-- A / B Testing
+
 - AGILE / SCRUM
 - Dev Tools
 - UX / UI
 - ISTQB Knowledge
 - SOAP UI and API basics
-- Postman
 - Database basics
 - Software Testing
 - Creating Test Cases
 - Reporting bugs  
+- Confluence / ClickUp
+- TestRail / qTest 
+- A / B Testing
 
 
 </td><td valign="top" width="50%">
@@ -65,6 +68,14 @@ Almost ten years experienced IT worker with a strong technical background, open-
 <a href="https://www.salesforce.com/in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/salesforce.png" alt="Salesforce" height="50" /></a>  
 <a href="https://www.adobe.com/products/photoshop-lightroom.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/lightroom.png" alt="Lightroom" height="50" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
+<a href="https://www.google.pl/intl/pl/chrome/" target="_blank"><img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/chrome/chrome-original-wordmark.svg" alt="Chrome" height="50" /></a>
+<a href="https://support.apple.com/pl_PL/downloads/safari" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/safari/safari-original.svg" alt="Safari" height="50" /></a>
+<a href="https://www.opera.com" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opera/opera-original.svg" alt="Opera" height="50" /></a>
+<a href="https://slack.com/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" alt="Slack" height="50" /></a>
+<a href="https://www.atlassian.com/pl/software/jira" target="_blank"><img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" alt="JIRA" height="50" /></a>
+<a href="https://www.apple.com" target="_blank"><img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" alt="Apple" height="50" /></a>
+<a href="https://code.visualstudio.com/" target="_blank"><img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" alt="VSC" height="50" /></a>
+<a href="https://www.postman.com/" target="_blank"><img style="margin: 10px" src="https://res.cloudinary.com/postman/image/upload/t_team_logo/v1629869194/team/2893aede23f01bfcbd2319326bc96a6ed0524eba759745ed6d73405a3a8b67a8" alt="Postman" height="50" /></a>
 </div>
 
 
@@ -146,21 +157,20 @@ Almost ten years experienced IT worker with a strong technical background, open-
 - Gildia Testerów
 
 
-<br/>  
-
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=annebereza&&style=flat-square" align="center" />
-</div> 
-
-
-  <br/> 
+<br/> 
   
   
 <div align="center">
 <img src="https://media.licdn.com/dms/image/C4E16AQEvCGFeXmJU9A/profile-displaybackgroundimage-shrink_350_1400/0/1608282439813?e=1686787200&v=beta&t=w-g1X_sMfwxa-vFmqJTvPdCQUjvxTz4C_XHccjr1zHE" align="center" style="width: 100%"  />
 </div>  
  
+ 
+<br/>
   
+  
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=annebereza&&style=flat-square" align="center" />
+</div> 
+
 
 
