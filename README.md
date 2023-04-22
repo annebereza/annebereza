@@ -7,14 +7,16 @@
 <br/>  
 
 
-  <h3>👋  I'm Anne Bereza, a Software Tester 👨‍💻  and Digital Marketing Freak 🚀  </h3>
+  <h3 align="center">👋  I'm Anne Bereza, a Software Tester 👨‍💻  and Digital Marketing Freak 🚀  </h3>
 
 <br/>  
 
 
 ## 📌 About  
+<table><tr><td valign="top" width="50%">
+
 Almost ten years experienced IT worker with a strong technical background, open-minded, and eager to take up new challenges. An inquisitive person who loves to learn new things every day. I had an opportunity to run projects of different sizes and teams, including ones in IT international environments. I'm a Software Tester with strong attention to detail.  
-  
+
 
 - 🌱 I’m currently learning about automated testing 🔄   
 
@@ -22,8 +24,15 @@ Almost ten years experienced IT worker with a strong technical background, open-
 - ❓ Ask me about anything you want! 🙈  
 
 
-- ⚡ Fun fact: I'm Mother of Dogs 🐶 (Dog's Trainer and Canine Behaviorist)  
-  
+- ⚡ Fun fact: I'm Mother of Dogs 🐶 (Dog's Trainer and Canine Behaviorist) 
+
+
+</td><td valign="top" width="50%">  
+
+<img align="right" alt="annebereza" style="margin-top:15px" src="https://github.com/hackerspider1/hackerspider1/blob/main/code.gif?raw=true" width="500" height="320" />
+
+</td></tr></table>  
+
 
 <br/>  
 
@@ -82,6 +91,7 @@ Almost ten years experienced IT worker with a strong technical background, open-
 </td></tr></table>  
 
 <br/>  
+<br/>
 
 
 ## 💬 Connect with me  
@@ -104,6 +114,7 @@ Almost ten years experienced IT worker with a strong technical background, open-
 </div>  
   
 
+<br/>  
 <br/>  
 
 
