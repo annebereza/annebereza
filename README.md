@@ -52,6 +52,8 @@ Almost ten years experienced IT worker with a strong technical background, open-
 - Reporting bugs  
 - Confluence / ClickUp
 - TestRail / qTest 
+- PyCharm
+- Asana / Trello / ClickUp
 - A / B Testing
 
 
